@@ -122,6 +122,8 @@ while True: # main game loop
 
 
 
+
+
     # 获得鼠标位置
     x, y = pygame.mouse.get_pos()
 
